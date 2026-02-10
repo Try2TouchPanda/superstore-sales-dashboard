@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # Key Business Insights
 
 ## 🔴 Critical Finding: Discount Disasters

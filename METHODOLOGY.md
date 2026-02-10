@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # Methodology: Superstore Sales Analysis
 
 ## 1. Data Collection
