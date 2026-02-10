@@ -1,0 +1,24 @@
+Dataset Name:
+Kaggle Superstore Sales Dataset
+
+Columns used in this project:
+1. Order Date – shows when the sale happened
+2. Region – shows where the sale happened
+3. Category – shows the product category
+4. Sales – shows how much money was earned
+5. Profit – shows profit or loss from sales
+
+Why sales data visualization is important:
+Sales data visualization helps us understand business performance,
+identify trends, and compare sales across regions and products easily.
+
+1. Imports & Data Loading
+2. Data Cleaning (sales, dates)
+3. Line Chart (Monthly Sales)
+4. Data Quality Checks
+5. Segment Pie Chart
+6. Category Pie Chart
+7. [NEW] Profit Analysis (Step 1-5)
+8. [NEW] Profit Margin by Category (Bar Chart)
+9. [NEW] Sales vs Profit Scatter
+10. [NEW] Segment Profitability Comparison
