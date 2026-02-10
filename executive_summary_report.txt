@@ -1,0 +1,40 @@
+
+SUPERSTORE SALES ANALYSIS REPORT (2011-2014)
+Generated: 2026-02-10 17:14
+
+FINANCIAL OVERVIEW:
+- Total Revenue: $12.64 million
+- Total Profit: $1.47 million  
+- Overall Margin: 11.6%
+- Total Orders: 51,289
+- Loss-making Orders: 12,542 (24.5%)
+
+SEGMENT PERFORMANCE:
+- Consumer: 51% of sales, 11.5% margin (volume leader, margin laggard)
+- Corporate: 30% of sales, 11.6% margin (balanced)
+- Home Office: 18% of sales, 12.0% margin (efficiency champion)
+
+CATEGORY PERFORMANCE:
+- Technology: 37% of sales, 14.0% margin [STAR PERFORMER]
+- Office Supplies: 30% of sales, 13.7% margin [SOLID]
+- Furniture: 33% of sales, 7.0% margin [MARGIN KILLER]
+
+CRITICAL ISSUES:
+- 435 'discount disasters' (high sales, negative profit)
+- Worst case: 60% discount on furniture = -133% margin
+- Furniture shipping costs eroding profitability
+
+RECOMMENDATIONS:
+1. Cap furniture discounts at 20% (currently seeing 60%)
+2. Prioritize Home Office segment expansion (12% margin)
+3. Bundle high-margin Office Supplies with Technology
+4. Discontinue or reprice SAFCO Executive Armchair
+5. Investigate Technology category for expansion
+
+FILES GENERATED:
+- chart1_monthly_trend.png
+- chart2_segment_pie.png  
+- chart3_category_pie.png
+- chart4_profit_margin.png
+- chart5_sales_profit_scatter.png
+- chart6_segment_margin.png
